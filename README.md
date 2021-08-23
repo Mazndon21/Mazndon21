@@ -10,7 +10,7 @@ apt install python
 
 apt install python2
 
-git clone https://github.com/Mazndon21/ddosWD
+git clone https://github.com/banghyuu/ddosWD
 
 cd ddosWD
 
